@@ -5,6 +5,7 @@ QR Code generator, based on initial plugin for Elgg 1.7 by Justin Richer
 http://community.elgg.org/plugins/475144/0.2/qr-code-generator
 
 ## History
+ - 2.3.0 : for Elgg 2.3
  - 1.12.0 : new versionning
  - 1.11.20 : 20150610 - Update to Elgg 1.11
  - 1.8.20 : 20150407 - Some cleanup
